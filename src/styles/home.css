@@ -1,4 +1,7 @@
-.red-light {
+.main{
+    margin-top: 50px;
+}
+.Red {
     background-color: red;
     height: 50px;
     width: 50px;
@@ -6,29 +9,26 @@
     margin: auto;
     left: 150px;
 }
-
-.yellow-light {
+.Yellow {
     background-color: yellow;
     height: 50px;
     width: 50px;
     border-radius: 50px;
     margin: auto;
 }
-
-.green-light {
+.Green {
     background-color: green;
     height: 50px;
     width: 50px;
     border-radius: 50px;
     margin: auto;
 }
-
 .traffic-light {
     background-color: black;
     width: 100px;
     height: 200px;
-    margin: auto;    
+    margin: auto;
 }
-Glow {
-    box-shadow: -2px -43px 100px 100px rgb(233, 230, 210);
+.Glow {
+    box-shadow: -2px -43px 100px 100px rgb(255, 255, 255);
 }
